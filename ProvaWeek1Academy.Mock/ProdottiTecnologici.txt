@@ -1,0 +1,4 @@
+﻿T123, TV Monitor, 120.00, true, ASUS
+T456, Xiaomi Redmi Note7, 180.00, true, Xiaomi
+T789, Mouse Locitech x2, 70.00, false, Logitech
+T012, PC Laptop, 340.00, true, Lenovo
